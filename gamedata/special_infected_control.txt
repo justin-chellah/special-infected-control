@@ -109,20 +109,20 @@
 		{
 			"m_iTankPassCount"
 			{
-				"windows"	"88"
-				"linux"		"88"
+				"windows"	"448"
+				"linux"		"448"
 			}
 
 			"m_tankLotteryEntryTimer"
 			{
-				"windows"	"184"
-				"linux"		"184"
+				"windows"	"376"
+				"linux"		"376"
 			}
 
 			"m_tankLotterySelectionTimer"
 			{
-				"windows"	"196"
-				"linux"		"196"
+				"windows"	"388"
+				"linux"		"388"
 			}
 			
 			"m_humanSpectatorUserID"
@@ -180,8 +180,8 @@
 			"IsFinaleVehicleReady"
 			{
 				"library"	"server"
-				"windows"	"\x8B\x81\x78\x05\x00\x00\x83\x38\x05\x74\x2A\xB8\x01\x00\x00\x00"
-				// 8B 81 78 05 00 00 83 38 05 74 ? B8 01 00 00 00
+				"windows"	"\x8B\x81\x2A\x2A\x00\x00\x83\x38\x05\x74\x2A\xB8\x01\x00\x00\x00"
+				// 8B 81 ? ? 00 00 83 38 05 74 ? B8 01 00 00 00
 
 				"linux"		"@_ZNK9CDirector20IsFinaleVehicleReadyEv"
 			}
